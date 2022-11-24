@@ -1,0 +1,1 @@
+alter sala_de_aula add foreign key fk_turma references turma(id);
